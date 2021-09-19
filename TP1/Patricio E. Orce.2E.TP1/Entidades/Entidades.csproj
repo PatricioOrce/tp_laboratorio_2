@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Patricio Orce.2E.TP1\ClassLibraryForTP1\ClassLibraryForTP1.csproj" />
+  </ItemGroup>
+
+</Project>
