@@ -1,0 +1,6 @@
+C:\Users\Pato\source\repos\Patricio Orce.2E.TP1\ClassLibraryForTP1\bin\Debug\ClassLibraryForTP1.dll
+C:\Users\Pato\source\repos\Patricio Orce.2E.TP1\ClassLibraryForTP1\bin\Debug\ClassLibraryForTP1.pdb
+C:\Users\Pato\source\repos\Patricio Orce.2E.TP1\ClassLibraryForTP1\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Pato\source\repos\Patricio Orce.2E.TP1\ClassLibraryForTP1\obj\Debug\ClassLibraryForTP1.dll
+C:\Users\Pato\source\repos\Patricio Orce.2E.TP1\ClassLibraryForTP1\obj\Debug\ClassLibraryForTP1.pdb
+C:\Users\Pato\source\repos\Patricio Orce.2E.TP1\ClassLibraryForTP1\obj\Debug\Entidades.csproj.AssemblyReference.cache
