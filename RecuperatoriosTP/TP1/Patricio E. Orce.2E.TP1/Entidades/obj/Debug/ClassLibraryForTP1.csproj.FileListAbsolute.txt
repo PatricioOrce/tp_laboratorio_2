@@ -1,0 +1,2 @@
+C:\Users\Pato\source\repos\Patricio Orce.2E.TP1\ClassLibraryForTP1\obj\Debug\ClassLibraryForTP1.csproj.AssemblyReference.cache
+C:\Users\Pato\source\repos\Patricio Orce.2E.TP1\ClassLibraryForTP1\obj\Debug\ClassLibraryForTP1.csproj.CoreCompileInputs.cache
