@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pato\\source\\repos\\Patricio E. Orce.2E.TP1\\MiCalculadora\\MiCalculadora.csproj": {}
+    "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\RecuperatoriosTP\\TP1\\Patricio E. Orce.2E.TP1\\MiCalculadora\\MiCalculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pato\\source\\repos\\Patricio E. Orce.2E.TP1\\MiCalculadora\\MiCalculadora.csproj": {
+    "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\RecuperatoriosTP\\TP1\\Patricio E. Orce.2E.TP1\\MiCalculadora\\MiCalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pato\\source\\repos\\Patricio E. Orce.2E.TP1\\MiCalculadora\\MiCalculadora.csproj",
+        "projectUniqueName": "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\RecuperatoriosTP\\TP1\\Patricio E. Orce.2E.TP1\\MiCalculadora\\MiCalculadora.csproj",
         "projectName": "MiCalculadora",
-        "projectPath": "C:\\Users\\Pato\\source\\repos\\Patricio E. Orce.2E.TP1\\MiCalculadora\\MiCalculadora.csproj",
+        "projectPath": "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\RecuperatoriosTP\\TP1\\Patricio E. Orce.2E.TP1\\MiCalculadora\\MiCalculadora.csproj",
         "packagesPath": "C:\\Users\\Pato\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pato\\source\\repos\\Patricio E. Orce.2E.TP1\\MiCalculadora\\obj\\",
+        "outputPath": "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\RecuperatoriosTP\\TP1\\Patricio E. Orce.2E.TP1\\MiCalculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\Pato\\source\\repos\\Patricio Orce.2E.TP1\\ClassLibraryForTP1\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Pato\\source\\repos\\Patricio Orce.2E.TP1\\ClassLibraryForTP1\\Entidades.csproj"
+              "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\RecuperatoriosTP\\TP1\\Patricio Orce.2E.TP1\\ClassLibraryForTP1\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\RecuperatoriosTP\\TP1\\Patricio Orce.2E.TP1\\ClassLibraryForTP1\\Entidades.csproj"
               }
             }
           }
@@ -67,16 +67,6 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
-      }
-    },
-    "C:\\Users\\Pato\\source\\repos\\Patricio Orce.2E.TP1\\ClassLibraryForTP1\\Entidades.csproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Pato\\source\\repos\\Patricio Orce.2E.TP1\\ClassLibraryForTP1\\Entidades.csproj",
-        "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Pato\\source\\repos\\Patricio Orce.2E.TP1\\ClassLibraryForTP1\\Entidades.csproj"
-      },
-      "frameworks": {
-        "net472": {}
       }
     }
   }

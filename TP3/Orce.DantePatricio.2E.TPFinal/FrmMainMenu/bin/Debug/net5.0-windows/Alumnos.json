@@ -1,0 +1,200 @@
+[
+  {
+    "Sector": 1,
+    "Turno": 0,
+    "Orientacion": 0,
+    "Genero": 0,
+    "Edad": 20,
+    "Apellido": "Orce",
+    "Nombre": "Patricio"
+  },
+  {
+    "Sector": 0,
+    "Turno": 0,
+    "Orientacion": 2,
+    "Genero": 1,
+    "Edad": 19,
+    "Apellido": "Prados",
+    "Nombre": "Florencia"
+  },
+  {
+    "Sector": 1,
+    "Turno": 1,
+    "Orientacion": 2,
+    "Genero": 0,
+    "Edad": 22,
+    "Apellido": "Careri",
+    "Nombre": "Facundo"
+  },
+  {
+    "Sector": 0,
+    "Turno": 2,
+    "Orientacion": 3,
+    "Genero": 0,
+    "Edad": 21,
+    "Apellido": "Scarlato",
+    "Nombre": "Julian"
+  },
+  {
+    "Sector": 1,
+    "Turno": 2,
+    "Orientacion": 3,
+    "Genero": 1,
+    "Edad": 26,
+    "Apellido": "Orce",
+    "Nombre": "Agostina"
+  },
+  {
+    "Sector": 0,
+    "Turno": 0,
+    "Orientacion": 1,
+    "Genero": 2,
+    "Edad": 12,
+    "Apellido": "Ramirez",
+    "Nombre": "Pedro"
+  },
+  {
+    "Sector": 0,
+    "Turno": 2,
+    "Orientacion": 1,
+    "Genero": 0,
+    "Edad": 11,
+    "Apellido": "Quito",
+    "Nombre": "Estevan"
+  },
+  {
+    "Sector": 0,
+    "Turno": 0,
+    "Orientacion": 0,
+    "Genero": 1,
+    "Edad": 14,
+    "Apellido": "Baez",
+    "Nombre": "Camila"
+  },
+  {
+    "Sector": 1,
+    "Turno": 1,
+    "Orientacion": 2,
+    "Genero": 2,
+    "Edad": 18,
+    "Apellido": "DeJerusalen",
+    "Nombre": "Belen"
+  },
+  {
+    "Sector": 0,
+    "Turno": 0,
+    "Orientacion": 0,
+    "Genero": 2,
+    "Edad": 9,
+    "Apellido": "Bibero",
+    "Nombre": "Justin"
+  },
+  {
+    "Sector": 0,
+    "Turno": 1,
+    "Orientacion": 3,
+    "Genero": 0,
+    "Edad": 13,
+    "Apellido": "Marfil",
+    "Nombre": "Mauricio"
+  },
+  {
+    "Sector": 1,
+    "Turno": 2,
+    "Orientacion": 2,
+    "Genero": 0,
+    "Edad": 20,
+    "Apellido": "Oggioni",
+    "Nombre": "Federico"
+  },
+  {
+    "Sector": 1,
+    "Turno": 2,
+    "Orientacion": 0,
+    "Genero": 2,
+    "Edad": 26,
+    "Apellido": "Martinez",
+    "Nombre": "Lucas"
+  },
+  {
+    "Sector": 1,
+    "Turno": 2,
+    "Orientacion": 3,
+    "Genero": 1,
+    "Edad": 22,
+    "Apellido": "Cuticula",
+    "Nombre": "Ezequiel"
+  },
+  {
+    "Sector": 0,
+    "Turno": 1,
+    "Orientacion": 1,
+    "Genero": 0,
+    "Edad": 10,
+    "Apellido": "Dinosaurio",
+    "Nombre": "Juan"
+  },
+  {
+    "Sector": 1,
+    "Turno": 1,
+    "Orientacion": 1,
+    "Genero": 1,
+    "Edad": 17,
+    "Apellido": "Extermidad",
+    "Nombre": "Carolina"
+  },
+  {
+    "Sector": 1,
+    "Turno": 0,
+    "Orientacion": 3,
+    "Genero": 0,
+    "Edad": 16,
+    "Apellido": "FrapucchinoDeDLL",
+    "Nombre": "Pedro"
+  },
+  {
+    "Sector": 1,
+    "Turno": 1,
+    "Orientacion": 0,
+    "Genero": 0,
+    "Edad": 19,
+    "Apellido": "Lopez",
+    "Nombre": "Gabriel"
+  },
+  {
+    "Sector": 0,
+    "Turno": 2,
+    "Orientacion": 1,
+    "Genero": 0,
+    "Edad": 11,
+    "Apellido": "Ledesma",
+    "Nombre": "Alejandro"
+  },
+  {
+    "Sector": 1,
+    "Turno": 0,
+    "Orientacion": 2,
+    "Genero": 1,
+    "Edad": 16,
+    "Apellido": "Polimorfismo",
+    "Nombre": "Ludmila"
+  },
+  {
+    "Sector": 1,
+    "Turno": 1,
+    "Orientacion": 0,
+    "Genero": 0,
+    "Edad": 17,
+    "Apellido": "Giggliotti",
+    "Nombre": "Hernesto"
+  },
+  {
+    "Sector": 0,
+    "Turno": 0,
+    "Orientacion": 1,
+    "Genero": 0,
+    "Edad": 9,
+    "Apellido": "Firulais",
+    "Nombre": "Francisco"
+  }
+]

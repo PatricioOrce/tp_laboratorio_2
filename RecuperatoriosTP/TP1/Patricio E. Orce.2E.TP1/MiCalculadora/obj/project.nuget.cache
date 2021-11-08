@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "CZqkA0h1zi5P0J+0XfWY2ppq5k5p3mfQW2RcPrqNS6WBogUlpE4Zdu/iwC8gbr8gfcSGQdA4WHGvFRitrAeIYA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Pato\\source\\repos\\Patricio E. Orce.2E.TP1\\MiCalculadora\\MiCalculadora.csproj",
+  "dgSpecHash": "L/yXK1AOrLvlz7zuqy1J6lcS9+xaI+GP+ZbQPdI6AczDuXKz4cjnJNAIouXyY83crR4dKoTNyO+02TaRtLsUCw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\RecuperatoriosTP\\TP1\\Patricio E. Orce.2E.TP1\\MiCalculadora\\MiCalculadora.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\RecuperatoriosTP\\TP1\\Patricio Orce.2E.TP1\\ClassLibraryForTP1\\Entidades.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\RecuperatoriosTP\\TP1\\Patricio Orce.2E.TP1\\ClassLibraryForTP1\\Entidades.csproj",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
 }
