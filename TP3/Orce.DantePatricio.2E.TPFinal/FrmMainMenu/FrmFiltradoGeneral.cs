@@ -234,7 +234,7 @@ namespace FrmInicio
             {
                 MessageBox.Show(ex.Message, ex.StackTrace);
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 MessageBox.Show(ex.Message, ex.StackTrace);
             }
@@ -250,10 +250,18 @@ namespace FrmInicio
             Random randNumerForPath = new Random();
             string fullPath = Path.Combine(path, $"AlumnosLogJson_{DateTime.Now.ToString("fffffff")}_{randNumerForPath.Next(1000, 9999)}.json");
             Serializer<List<Alumno>> serializador = new Serializer<List<Alumno>>(ETipo.JSON);
-            if (!string.IsNullOrEmpty(path))
+            try
+            {
                 serializador.Escribir(lista, fullPath);
-            else
-                throw new InvalidPathException("Ruta para serializar invalida.");
+            }
+            catch (InvalidExtensionException ex)
+            {
+                MessageBox.Show(ex.Message, ex.StackTrace);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, ex.StackTrace);
+            }
         }
         /// <summary>
         /// Rellena un datagridview con la informacion de una lista enviada.

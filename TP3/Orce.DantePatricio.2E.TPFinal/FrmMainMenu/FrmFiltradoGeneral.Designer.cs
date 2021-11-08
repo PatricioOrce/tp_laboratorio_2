@@ -289,6 +289,7 @@ namespace FrmInicio
             // 
             this.txtPath.Location = new System.Drawing.Point(298, 185);
             this.txtPath.Name = "txtPath";
+            this.txtPath.PlaceholderText = "Implementado en TP4";
             this.txtPath.Size = new System.Drawing.Size(277, 23);
             this.txtPath.TabIndex = 32;
             // 
