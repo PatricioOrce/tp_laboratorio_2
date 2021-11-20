@@ -37,6 +37,8 @@ namespace FrmInicio
                                                         (ESector)cmbSector.SelectedIndex,
                                                         (ETurno)cmbTurno.SelectedIndex,
                                                         (EOrientacion)cmbOrientacion.SelectedIndex);
+                    MessageBox.Show($"Los alumnos con estas caracteristicas representan un {Analisis<Alumno>.SacarPorcentaje(this.alumnos, alumnos)}% del total.");
+
                     allow = true;
                 }
                 catch (EmptyListException ex)
@@ -56,6 +58,7 @@ namespace FrmInicio
                     alumnos = Filtro.FilterBy(this.alumnos, (EGenero)cmbGenero.SelectedIndex,
                                                                            (ESector)cmbSector.SelectedIndex,
                                                                            (ETurno)cmbTurno.SelectedIndex);
+                    MessageBox.Show($"Los alumnos con estas caracteristicas representan un {Analisis<Alumno>.SacarPorcentaje(this.alumnos, alumnos)}% del total.");
                     allow = true;
                 }
                 catch (EmptyListException ex)
@@ -74,6 +77,7 @@ namespace FrmInicio
                 {
                     alumnos = Filtro.FilterBy(this.alumnos, (EGenero)cmbGenero.SelectedIndex,
                                                             (ESector)cmbSector.SelectedIndex);
+                    MessageBox.Show($"Los alumnos con estas caracteristicas representan un {Analisis<Alumno>.SacarPorcentaje(this.alumnos, alumnos)}% del total.");
                     allow = true;
                 }
                 catch (EmptyListException ex)
@@ -91,6 +95,7 @@ namespace FrmInicio
                 try
                 {
                     alumnos = Filtro.FilterBy(this.alumnos, (EGenero)cmbGenero.SelectedIndex);
+                    MessageBox.Show($"Los alumnos con este genero representan un {Analisis<Alumno>.SacarPorcentaje(this.alumnos, alumnos)}% del total.");
                     allow = true;
                 }
                 catch (EmptyListException ex)
@@ -108,6 +113,7 @@ namespace FrmInicio
                 try
                 {
                     alumnos = Filtro.FilterBy(this.alumnos, (ESector)cmbSector.SelectedIndex);
+                    MessageBox.Show($"Los alumnos con este sector representan un {Analisis<Alumno>.SacarPorcentaje(this.alumnos, alumnos)}% del total.");
                     allow = true;
                 }
                 catch (EmptyListException ex)
@@ -125,6 +131,7 @@ namespace FrmInicio
                 try
                 {
                     alumnos = Filtro.FilterBy(this.alumnos, (ETurno)cmbTurno.SelectedIndex);
+                    MessageBox.Show($"Los alumnos con este turno representan un {Analisis<Alumno>.SacarPorcentaje(this.alumnos, alumnos)}% del total.");
                     allow = true;
                 }
                 catch (EmptyListException ex)
@@ -142,6 +149,7 @@ namespace FrmInicio
                 try
                 {
                     alumnos = Filtro.FilterBy(this.alumnos, (EOrientacion)cmbOrientacion.SelectedIndex);
+                    MessageBox.Show($"Los alumnos con esta orientacion representan un {Analisis<Alumno>.SacarPorcentaje(this.alumnos, alumnos)}% del total.");
                     allow = true;
                 }
                 catch (EmptyListException ex)
