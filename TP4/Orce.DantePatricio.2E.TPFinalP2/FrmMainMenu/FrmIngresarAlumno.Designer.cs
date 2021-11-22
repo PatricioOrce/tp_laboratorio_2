@@ -36,10 +36,10 @@ namespace FrmInicio
             this.cmbSector = new System.Windows.Forms.ComboBox();
             this.cmbTurno = new System.Windows.Forms.ComboBox();
             this.cmbOrientacion = new System.Windows.Forms.ComboBox();
-            this.lblGenero = new System.Windows.Forms.Label();
+            this.lblGénero = new System.Windows.Forms.Label();
             this.txtSector = new System.Windows.Forms.Label();
             this.lblTurno = new System.Windows.Forms.Label();
-            this.lblOrientacion = new System.Windows.Forms.Label();
+            this.lblOrientación = new System.Windows.Forms.Label();
             this.btnIngresar = new System.Windows.Forms.Button();
             this.dtgvAlumnos = new System.Windows.Forms.DataGridView();
             this.colName = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -112,14 +112,14 @@ namespace FrmInicio
             this.cmbOrientacion.Size = new System.Drawing.Size(90, 23);
             this.cmbOrientacion.TabIndex = 6;
             // 
-            // lblGenero
+            // lblGénero
             // 
-            this.lblGenero.AutoSize = true;
-            this.lblGenero.Location = new System.Drawing.Point(17, 384);
-            this.lblGenero.Name = "lblGenero";
-            this.lblGenero.Size = new System.Drawing.Size(45, 15);
-            this.lblGenero.TabIndex = 7;
-            this.lblGenero.Text = "Genero";
+            this.lblGénero.AutoSize = true;
+            this.lblGénero.Location = new System.Drawing.Point(17, 384);
+            this.lblGénero.Name = "lblGénero";
+            this.lblGénero.Size = new System.Drawing.Size(45, 15);
+            this.lblGénero.TabIndex = 7;
+            this.lblGénero.Text = "Genero";
             // 
             // txtSector
             // 
@@ -139,14 +139,14 @@ namespace FrmInicio
             this.lblTurno.TabIndex = 9;
             this.lblTurno.Text = "Turno";
             // 
-            // lblOrientacion
+            // lblOrientación
             // 
-            this.lblOrientacion.AutoSize = true;
-            this.lblOrientacion.Location = new System.Drawing.Point(413, 387);
-            this.lblOrientacion.Name = "lblOrientacion";
-            this.lblOrientacion.Size = new System.Drawing.Size(69, 15);
-            this.lblOrientacion.TabIndex = 10;
-            this.lblOrientacion.Text = "Orientacion";
+            this.lblOrientación.AutoSize = true;
+            this.lblOrientación.Location = new System.Drawing.Point(413, 387);
+            this.lblOrientación.Name = "lblOrientación";
+            this.lblOrientación.Size = new System.Drawing.Size(69, 15);
+            this.lblOrientación.TabIndex = 10;
+            this.lblOrientación.Text = "Orientacion";
             // 
             // btnIngresar
             // 
@@ -233,10 +233,10 @@ namespace FrmInicio
             this.ClientSize = new System.Drawing.Size(768, 451);
             this.Controls.Add(this.dtgvAlumnos);
             this.Controls.Add(this.btnIngresar);
-            this.Controls.Add(this.lblOrientacion);
+            this.Controls.Add(this.lblOrientación);
             this.Controls.Add(this.lblTurno);
             this.Controls.Add(this.txtSector);
-            this.Controls.Add(this.lblGenero);
+            this.Controls.Add(this.lblGénero);
             this.Controls.Add(this.cmbOrientacion);
             this.Controls.Add(this.cmbTurno);
             this.Controls.Add(this.cmbSector);
@@ -245,7 +245,7 @@ namespace FrmInicio
             this.Controls.Add(this.txtApellido);
             this.Controls.Add(this.txtNombre);
             this.Name = "FrmIngresarAlumno";
-            this.Text = "FrmIngresarAlumno";
+            this.Text = "Ingresar alumno";
             this.Load += new System.EventHandler(this.FrmIngresarAlumno_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtgvAlumnos)).EndInit();
             this.ResumeLayout(false);
@@ -262,10 +262,10 @@ namespace FrmInicio
         private System.Windows.Forms.ComboBox cmbSector;
         private System.Windows.Forms.ComboBox cmbTurno;
         private System.Windows.Forms.ComboBox cmbOrientacion;
-        private System.Windows.Forms.Label lblGenero;
+        private System.Windows.Forms.Label lblGénero;
         private System.Windows.Forms.Label txtSector;
         private System.Windows.Forms.Label lblTurno;
-        private System.Windows.Forms.Label lblOrientacion;
+        private System.Windows.Forms.Label lblOrientación;
         private System.Windows.Forms.Button btnIngresar;
         private System.Windows.Forms.DataGridView dtgvAlumnos;
         private System.Windows.Forms.DataGridViewTextBoxColumn colName;

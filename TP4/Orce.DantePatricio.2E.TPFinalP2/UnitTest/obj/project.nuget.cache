@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xbvNBbpNjYdhEEp+weu/PRLdlYyBNv0VgtzX6mpwluDeiuEzRXcAyVOzDw6TmSCSlPXG8y6oWtY9BgicAhXhDw==",
+  "dgSpecHash": "OhdBE+kE4auL6l7Y15ha6rR5ZuPA48fehgB7cI9jsgvgNzss6oiAI6D5Fos+P1RuFUbXz2lLVzBQ2s00NeYJeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pato\\source\\repos\\Orce.DantePatricio.2E.TPFinalP2\\UnitTest\\UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\TP4\\Orce.DantePatricio.2E.TPFinalP2\\UnitTest\\UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pato\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Pato\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

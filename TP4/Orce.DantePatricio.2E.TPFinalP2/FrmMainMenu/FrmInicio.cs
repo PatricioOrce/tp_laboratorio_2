@@ -54,15 +54,13 @@ namespace FrmInicio
                         btnData.BeginInvoke((MethodInvoker)delegate ()
                         {
                             this.Refresh();
-                            lblInicioText.Text = "Datos Cargados con Exito.";
+                            lblInicioText.Text = "Datos Cargados con Éxito.";
                         });
                     }
                     else
                     {
-
                         this.Refresh();
-                        lblInicioText.Text = "Datos Cargados con Exito.";
-
+                        lblInicioText.Text = "Datos Cargados con Éxito.";
                     }
                     Thread.Sleep(1000);
                 });
@@ -94,9 +92,7 @@ namespace FrmInicio
                 {
                     MessageBox.Show(ex.Message);
                 }
-
             });
-
         }
 
         private void btnSalir_Click(object sender, EventArgs e)
@@ -111,7 +107,6 @@ namespace FrmInicio
                 filter = new FrmFiltradoGeneral();
                 filter.ShowDialog();
             });
-
         }
     }
 }

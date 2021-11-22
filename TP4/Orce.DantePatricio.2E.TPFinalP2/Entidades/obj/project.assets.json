@@ -460,11 +460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pato\\source\\repos\\Orce.DantePatricio.2E.TPFinalP2\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\TP4\\Orce.DantePatricio.2E.TPFinalP2\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\Pato\\source\\repos\\Orce.DantePatricio.2E.TPFinalP2\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\TP4\\Orce.DantePatricio.2E.TPFinalP2\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\Pato\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pato\\source\\repos\\Orce.DantePatricio.2E.TPFinalP2\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\TP4\\Orce.DantePatricio.2E.TPFinalP2\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

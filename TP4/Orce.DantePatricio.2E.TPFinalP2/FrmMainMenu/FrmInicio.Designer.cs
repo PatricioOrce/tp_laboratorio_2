@@ -53,7 +53,7 @@ namespace FrmInicio
             this.lblInicioText.Name = "lblInicioText";
             this.lblInicioText.Size = new System.Drawing.Size(333, 24);
             this.lblInicioText.TabIndex = 0;
-            this.lblInicioText.Text = "Hey! Bienvenido, Que deseas hacer?";
+            this.lblInicioText.Text = "Hey! Bienvenido, Qué deseas hacer?";
             // 
             // btnNewAlumno
             // 
@@ -96,7 +96,7 @@ namespace FrmInicio
             this.btnData.Name = "btnData";
             this.btnData.Size = new System.Drawing.Size(160, 50);
             this.btnData.TabIndex = 4;
-            this.btnData.Text = "Analisar Datos";
+            this.btnData.Text = "Analizar Datos";
             this.btnData.UseVisualStyleBackColor = false;
             this.btnData.Click += new System.EventHandler(this.btnData_Click);
             // 
@@ -136,6 +136,7 @@ namespace FrmInicio
             this.Controls.Add(this.btnNewAlumno);
             this.Controls.Add(this.lblInicioText);
             this.Name = "FrmInicio";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Inicio";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.studentIMG)).EndInit();

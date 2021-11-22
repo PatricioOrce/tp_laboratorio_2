@@ -221,7 +221,7 @@ namespace FrmInicio
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(45, 15);
             this.label1.TabIndex = 24;
-            this.label1.Text = "Genero";
+            this.label1.Text = "Género";
             // 
             // label2
             // 
@@ -248,7 +248,7 @@ namespace FrmInicio
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(69, 15);
             this.label4.TabIndex = 27;
-            this.label4.Text = "Orientacion";
+            this.label4.Text = "Orientación";
             // 
             // label6
             // 
@@ -303,7 +303,7 @@ namespace FrmInicio
             this.Controls.Add(this.dtgvAlumnos);
             this.Controls.Add(this.lblInitTExt);
             this.Name = "FrmFiltradoGeneral";
-            this.Text = "FrmFiltradoGeneral";
+            this.Text = "Filtro y Estadística";
             this.Load += new System.EventHandler(this.FrmFiltradoGeneral_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtgvAlumnos)).EndInit();
             this.ResumeLayout(false);

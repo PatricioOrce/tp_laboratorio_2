@@ -6557,11 +6557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pato\\source\\repos\\Orce.DantePatricio.2E.TPFinalP2\\UnitTest\\UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\TP4\\Orce.DantePatricio.2E.TPFinalP2\\UnitTest\\UnitTest.csproj",
       "projectName": "UnitTest",
-      "projectPath": "C:\\Users\\Pato\\source\\repos\\Orce.DantePatricio.2E.TPFinalP2\\UnitTest\\UnitTest.csproj",
+      "projectPath": "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\TP4\\Orce.DantePatricio.2E.TPFinalP2\\UnitTest\\UnitTest.csproj",
       "packagesPath": "C:\\Users\\Pato\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pato\\source\\repos\\Orce.DantePatricio.2E.TPFinalP2\\UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\TP4\\Orce.DantePatricio.2E.TPFinalP2\\UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6582,8 +6582,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Pato\\source\\repos\\Orce.DantePatricio.2E.TPFinalP2\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Pato\\source\\repos\\Orce.DantePatricio.2E.TPFinalP2\\Entidades\\Entidades.csproj"
+            "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\TP4\\Orce.DantePatricio.2E.TPFinalP2\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\TP4\\Orce.DantePatricio.2E.TPFinalP2\\Entidades\\Entidades.csproj"
             }
           }
         }

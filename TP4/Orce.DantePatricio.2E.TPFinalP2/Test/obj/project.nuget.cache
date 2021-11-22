@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Iu8QLLjX5V6NzdpunNu6rjAUujwLJ0lPCbWEitTJZcinmILcjUzeNauI68OmsH9O/8wRogJ7Gau8pvwCmiTxlQ==",
+  "dgSpecHash": "eJKf4VAPQLoDN/CTDRt5Q/Xqq9bYeADl8FqJoEbiBoAmeowDQmvj9viJEwFGVAYbDJfPxM99tknuq0qv64GMGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pato\\source\\repos\\Orce.DantePatricio.2E.TPFinalP2\\Test\\Test.csproj",
+  "projectFilePath": "C:\\Users\\Pato\\Desktop\\tp_laboratorio_2\\TP4\\Orce.DantePatricio.2E.TPFinalP2\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pato\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Pato\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
