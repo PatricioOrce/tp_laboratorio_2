@@ -7,7 +7,6 @@ using System.Windows.Forms;
 
 namespace FrmInicio
 {
-    public delegate void Guardar(List<Alumno> alumns, string path);
     public partial class FrmFiltradoGeneral : Form
     {
         List<Alumno> alumnos;
@@ -175,25 +174,30 @@ namespace FrmInicio
                 else if (rbtnShowInFile.Checked)
                 {
                     SaveTextFile(alumnos, path);
+                    MessageBox.Show($"El archivo se guardo con exito!\nRuta de guardado: {path}");
                 }
                 else
                 {
                     FillDataGrid(alumnos);
                     SaveTextFile(alumnos, path);
+                    MessageBox.Show($"El archivo se guardo con exito!\nRuta de guardado: {path}");
                 }
                 if (cboxXML.Checked && cboxJson.Checked)
                 {
 
                     SaveXmlFile(alumnos, path);
                     SaveJsonFile(alumnos, path);
+                    MessageBox.Show($"El archivo se guardo con exito!\nRuta de guardado: {path}");
                 }
                 else if (cboxXML.Checked && !cboxJson.Checked)
                 {
                     SaveXmlFile(alumnos, path);
+                    MessageBox.Show($"El archivo se guardo con exito!\nRuta de guardado: {path}");
                 }
                 else if (!cboxXML.Checked && cboxJson.Checked)
                 {
                     SaveJsonFile(alumnos, path);
+                    MessageBox.Show($"El archivo se guardo con exito!\nRuta de guardado: {path}");
                 }
             }
         }
@@ -297,19 +301,6 @@ namespace FrmInicio
         public void ActualizarDB()
         {
             this.alumnos = DataBase.ImportFromDB();
-        }
-        private void rbtnShowInScreen_CheckedChanged(object sender, EventArgs e)
-        {
-            txtPath.Enabled = false;
-        }
-        private void rbtnShowInFile_CheckedChanged(object sender, EventArgs e)
-        {
-            txtPath.Enabled = true;
-
-        }
-        private void rbtnShowInBoth_CheckedChanged(object sender, EventArgs e)
-        {
-            txtPath.Enabled = true;
         }
     }
 }

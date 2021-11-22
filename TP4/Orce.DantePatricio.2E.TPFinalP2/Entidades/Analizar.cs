@@ -8,6 +8,12 @@ namespace Entidades
 {
     public static class Analizar<T> where T : class
     {
+        /// <summary>
+        /// Calcula el porcentaje de una lista respecto a otra.
+        /// </summary>
+        /// <param name="listaCompleta"></param>
+        /// <param name="listaFiltrada"></param>
+        /// <returns>Devuelve el porcentaje calculado de ser valido, de lo contrario lanza una excepcion.</returns>
         public static float CalcularPorcentaje(List<T> listaCompleta, List<T> listaFiltrada)
         {
             try

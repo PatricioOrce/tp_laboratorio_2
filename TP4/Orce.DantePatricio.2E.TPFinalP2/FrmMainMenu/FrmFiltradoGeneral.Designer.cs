@@ -53,9 +53,6 @@ namespace FrmInicio
             this.label6 = new System.Windows.Forms.Label();
             this.cboxXML = new System.Windows.Forms.CheckBox();
             this.cboxJson = new System.Windows.Forms.CheckBox();
-            this.txtPath = new System.Windows.Forms.TextBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.lblHilo = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dtgvAlumnos)).BeginInit();
             this.SuspendLayout();
             // 
@@ -148,7 +145,6 @@ namespace FrmInicio
             this.rbtnShowInBoth.TabStop = true;
             this.rbtnShowInBoth.Text = "Ambos";
             this.rbtnShowInBoth.UseVisualStyleBackColor = true;
-            this.rbtnShowInBoth.CheckedChanged += new System.EventHandler(this.rbtnShowInBoth_CheckedChanged);
             // 
             // rbtnShowInFile
             // 
@@ -160,7 +156,6 @@ namespace FrmInicio
             this.rbtnShowInFile.TabStop = true;
             this.rbtnShowInFile.Text = "Archivo";
             this.rbtnShowInFile.UseVisualStyleBackColor = true;
-            this.rbtnShowInFile.CheckedChanged += new System.EventHandler(this.rbtnShowInFile_CheckedChanged);
             // 
             // rbtnShowInScreen
             // 
@@ -172,7 +167,6 @@ namespace FrmInicio
             this.rbtnShowInScreen.TabStop = true;
             this.rbtnShowInScreen.Text = "Pantalla";
             this.rbtnShowInScreen.UseVisualStyleBackColor = true;
-            this.rbtnShowInScreen.CheckedChanged += new System.EventHandler(this.rbtnShowInScreen_CheckedChanged);
             // 
             // cmbOrientacion
             // 
@@ -286,40 +280,11 @@ namespace FrmInicio
             this.cboxJson.Text = "Generar archivo JSON";
             this.cboxJson.UseVisualStyleBackColor = true;
             // 
-            // txtPath
-            // 
-            this.txtPath.Location = new System.Drawing.Point(298, 185);
-            this.txtPath.Name = "txtPath";
-            this.txtPath.PlaceholderText = "Implementado en TP4";
-            this.txtPath.Size = new System.Drawing.Size(277, 23);
-            this.txtPath.TabIndex = 32;
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(297, 167);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(195, 15);
-            this.label5.TabIndex = 33;
-            this.label5.Text = "Inserte ruta de guardado:(Opcional)";
-            // 
-            // lblHilo
-            // 
-            this.lblHilo.AutoSize = true;
-            this.lblHilo.Location = new System.Drawing.Point(631, 17);
-            this.lblHilo.Name = "lblHilo";
-            this.lblHilo.Size = new System.Drawing.Size(47, 15);
-            this.lblHilo.TabIndex = 34;
-            this.lblHilo.Text = "Keonda";
-            // 
             // FrmFiltradoGeneral
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(747, 415);
-            this.Controls.Add(this.lblHilo);
-            this.Controls.Add(this.label5);
-            this.Controls.Add(this.txtPath);
             this.Controls.Add(this.cboxJson);
             this.Controls.Add(this.cboxXML);
             this.Controls.Add(this.label6);
@@ -371,8 +336,5 @@ namespace FrmInicio
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.CheckBox cboxXML;
         private System.Windows.Forms.CheckBox cboxJson;
-        private System.Windows.Forms.TextBox txtPath;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label lblHilo;
     }
 }

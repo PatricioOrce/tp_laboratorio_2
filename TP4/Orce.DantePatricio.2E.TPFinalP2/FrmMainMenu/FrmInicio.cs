@@ -31,38 +31,45 @@ namespace FrmInicio
 
         private async void Form1_Load(object sender, EventArgs e)
         {
+            this.pictureBox1.Visible = false;
+            this.picLoading.SizeMode = PictureBoxSizeMode.StretchImage;
+            this.picLoading.Image = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "loading.gif"));
             this.lblInicioText.Text = "Cargando datos de Alumnos......";
             await CargarDatos();
         }
 
+        /// <summary>
+        /// Realiza la carga de datos en un hilo paralelo, permitiendo continuar con otras tareas.
+        /// </summary>
+        /// <returns></returns>
         private async Task CargarDatos()
         {
             try
             {
-
                 await Task.Run(() => {
                     alumnos = DataBase.ImportFromDB();
+                    Thread.Sleep(5000);
                     if (btnData.InvokeRequired)
                     {
                         btnData.BeginInvoke((MethodInvoker)delegate ()
                         {
-                            this.Refresh();
-                            Thread.Sleep(5000);
                             this.Refresh();
                             lblInicioText.Text = "Datos Cargados con Exito.";
                         });
                     }
                     else
                     {
-                        this.Refresh();
-                        Thread.Sleep(5000);
+
                         this.Refresh();
                         lblInicioText.Text = "Datos Cargados con Exito.";
 
                     }
+                    Thread.Sleep(1000);
                 });
+                this.picLoading.Visible = false;
+                this.pictureBox1.Visible = true;
                 this.btnData.Enabled = true;
-                //this.lblInicioText.Text = "Bienvenido, Que desea realizar?";
+                this.lblInicioText.Text = "Bienvenido, Que desea realizar?";
             }
             catch (InvalidExtensionException ex)
             {

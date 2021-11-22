@@ -75,23 +75,23 @@ namespace Entidades
                 this.orientacion = value;
             }
         }
-
+        
+        /// <summary>
+        /// Ingresa un alumno pasado por parametro a la base de datos.
+        /// </summary>
+        /// <param name="alumno"></param>
         public static void IngresarAlumno(Alumno alumno)
         {
             try
             {
-                if (Validar.IsNombre(alumno.Nombre) && Validar.IsNombre(alumno.Apellido))
+                if (alumno.Nombre.IsName() && alumno.Apellido.IsName())
                 {
-                    //Alumno alumnoAux = new Alumno(txtNombre.Text, txtApellido.Text, int.Parse(txtEdad.Text), (EGenero)cmbGenero.SelectedItem,
-                    //        (ESector)cmbSector.SelectedItem, (ETurno)cmbTurno.SelectedItem, (EOrientacion)cmbOrientacion.SelectedItem);
                     DataBase.InsertToDB(alumno);
                     Created.Invoke();
-                    //return "Ingresado con Exito!";
                 }
                 else
                 {
                     Failed.Invoke();
-                    //return "Datos Invalidos.";
                 }
             }
             catch (InvalidExtensionException)

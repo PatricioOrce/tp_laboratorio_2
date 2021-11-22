@@ -36,9 +36,11 @@ namespace FrmInicio
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnData = new System.Windows.Forms.Button();
             this.btnSalir = new System.Windows.Forms.PictureBox();
+            this.picLoading = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.studentIMG)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnSalir)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picLoading)).BeginInit();
             this.SuspendLayout();
             // 
             // lblInicioText
@@ -47,7 +49,7 @@ namespace FrmInicio
             this.lblInicioText.BackColor = System.Drawing.Color.Transparent;
             this.lblInicioText.Font = new System.Drawing.Font("Jokerman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lblInicioText.ForeColor = System.Drawing.Color.White;
-            this.lblInicioText.Location = new System.Drawing.Point(100, 32);
+            this.lblInicioText.Location = new System.Drawing.Point(107, 32);
             this.lblInicioText.Name = "lblInicioText";
             this.lblInicioText.Size = new System.Drawing.Size(333, 24);
             this.lblInicioText.TabIndex = 0;
@@ -110,6 +112,15 @@ namespace FrmInicio
             this.btnSalir.TabStop = false;
             this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
+            // picLoading
+            // 
+            this.picLoading.BackColor = System.Drawing.Color.Transparent;
+            this.picLoading.Location = new System.Drawing.Point(373, 88);
+            this.picLoading.Name = "picLoading";
+            this.picLoading.Size = new System.Drawing.Size(122, 100);
+            this.picLoading.TabIndex = 6;
+            this.picLoading.TabStop = false;
+            // 
             // FrmInicio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -117,6 +128,7 @@ namespace FrmInicio
             this.BackColor = System.Drawing.Color.SeaShell;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(533, 269);
+            this.Controls.Add(this.picLoading);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.btnData);
             this.Controls.Add(this.pictureBox1);
@@ -124,11 +136,12 @@ namespace FrmInicio
             this.Controls.Add(this.btnNewAlumno);
             this.Controls.Add(this.lblInicioText);
             this.Name = "FrmInicio";
-            this.Text = "Form1";
+            this.Text = "Inicio";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.studentIMG)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnSalir)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picLoading)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -142,6 +155,7 @@ namespace FrmInicio
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button btnData;
         private System.Windows.Forms.PictureBox btnSalir;
+        private System.Windows.Forms.PictureBox picLoading;
     }
 }
 
