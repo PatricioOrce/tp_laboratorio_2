@@ -44,9 +44,9 @@ namespace Entidades
         public virtual string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine(this.chasis);
-            sb.AppendLine(this.marca.ToString());
-            sb.AppendLine(this.color.ToString());
+            sb.AppendLine($"CHASIS: {this.chasis}");
+            sb.AppendLine($"MARCA :{this.marca.ToString()}");
+            sb.AppendLine($"COLOR : {this.color.ToString()}");
             return sb.ToString();
         }
 
