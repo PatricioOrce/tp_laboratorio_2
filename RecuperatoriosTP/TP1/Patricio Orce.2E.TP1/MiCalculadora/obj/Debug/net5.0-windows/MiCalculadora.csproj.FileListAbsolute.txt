@@ -1,0 +1,45 @@
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.exe
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.deps.json
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.json
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.dev.json
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\ClassLibraryForTP1.dll
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\ClassLibraryForTP1.pdb
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.FormCalculadora.resources
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfo.cs
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CopyComplete
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.exe
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.deps.json
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.json
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.dev.json
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\ClassLibraryForTP1.dll
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\bin\Debug\net5.0-windows\ClassLibraryForTP1.pdb
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.FormCalculadora.resources
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfo.cs
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CopyComplete
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\Pato\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\Patricio Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache

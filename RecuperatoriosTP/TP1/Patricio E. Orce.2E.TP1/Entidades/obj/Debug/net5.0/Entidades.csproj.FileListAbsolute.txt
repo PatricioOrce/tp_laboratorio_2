@@ -1,5 +1,0 @@
-C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
-C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
-C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
-C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache

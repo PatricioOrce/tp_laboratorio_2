@@ -19,3 +19,6 @@ C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.
 C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
 C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
 C:\Users\Pato\source\repos\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache
+C:\Users\Pato\Desktop\tp_laboratorio_2\TP1\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Pato\Desktop\tp_laboratorio_2\TP1\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\Pato\Desktop\tp_laboratorio_2\TP1\Patricio E. Orce.2E.TP1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
