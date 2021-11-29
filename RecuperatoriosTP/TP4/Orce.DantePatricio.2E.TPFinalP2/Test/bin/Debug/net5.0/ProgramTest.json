@@ -1,0 +1,20 @@
+[
+  {
+    "Sector": 1,
+    "Turno": 0,
+    "Orientacion": 0,
+    "Genero": 0,
+    "Edad": 20,
+    "Apellido": "ConExito",
+    "Nombre": "PersonaLeida"
+  },
+  {
+    "Sector": 1,
+    "Turno": 0,
+    "Orientacion": 2,
+    "Genero": 1,
+    "Edad": 19,
+    "Apellido": "Testear",
+    "Nombre": "GraciasPor"
+  }
+]

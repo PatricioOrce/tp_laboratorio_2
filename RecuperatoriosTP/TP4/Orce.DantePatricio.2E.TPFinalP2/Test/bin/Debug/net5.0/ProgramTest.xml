@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAlumno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Alumno>
+    <Genero>Masculino</Genero>
+    <Edad>20</Edad>
+    <Apellido>ConExito</Apellido>
+    <Nombre>PersonaLeida</Nombre>
+    <Sector>Secundario</Sector>
+    <Turno>Maniana</Turno>
+    <Orientacion>Sociales</Orientacion>
+  </Alumno>
+  <Alumno>
+    <Genero>Femenino</Genero>
+    <Edad>19</Edad>
+    <Apellido>Testear</Apellido>
+    <Nombre>GraciasPor</Nombre>
+    <Sector>Secundario</Sector>
+    <Turno>Maniana</Turno>
+    <Orientacion>Economia</Orientacion>
+  </Alumno>
+</ArrayOfAlumno>
